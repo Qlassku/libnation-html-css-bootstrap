@@ -1,0 +1,79 @@
+.navbar-black{
+    background-color: #000000;
+}
+
+.logo{
+    width:200px
+}
+
+.text-white{
+    color:#FFFFFF;
+    font-weight: bold;
+    margin-right:50px;
+    margin-left:20px;
+}
+
+.selected{
+    color:#F15B26;
+    font-weight: bold;
+    margin-right:50px;
+    margin-left:20px;
+}
+
+.selected:hover{
+    color:#ffffff;
+    font-weight: bold;
+    margin-right:50px;
+    margin-left:20px;
+}
+
+.btn-login{
+    background-color: #F15B26;
+    border: none;
+}
+
+.btn-login:hover{
+    background-color: #8bc541;
+    border: none;
+}
+
+.card-form{
+    padding:6px;
+    width:30%;
+    margin-top:70px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.form-login{
+    margin:10px
+}
+
+.logo-white{
+    width:100%;
+    margin:10px 0px 30px 0px;
+}
+
+.btn-login{
+    width:100%;
+    background-color:#F15B26;
+}
+
+.label-text{
+    font-weight: bold;
+}
+
+.input-form{
+    padding: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .card-form{
+        padding:6px;
+        width:80%;
+        margin-top:70px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+  }
+  
